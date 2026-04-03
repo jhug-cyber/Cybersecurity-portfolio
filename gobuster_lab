@@ -1,0 +1,32 @@
+Introduction to Offensive Security
+Perform directory brute-forcing on web applications
+
+•	Key Concepts
+- Offensive Security = identifying vulnerabilities by simulating attacks
+- Brute-force = systematically trying inputs to discover hidden resources
+- Directory enumeration = finding hidden web pages
+
+•	Tools/Commands
+Gobuster
+- Command: 
+
+Gobuster command used to enumerate directories.
+
+- Results from Gobuster scan
+ 
+Scan results showing discovered endpoint /bank-transfer (Status 200). 
+
+•	What I did:
+- Performed directory brute-force attack against a web application
+- Use a wordlist to enumerate hidden directories
+- Identified /bank-transfer endpoint with HTTP 200 status
+
+•	What I learned:
+- Directory enumeration can expose hidden and sensitive endpoints
+- HTTP status codes (like 200) indicate valid pages
+- Reconnaissance is a critical first step in web exploitation
+
+•	Job Relevance:
+- Used in penetration testing to discover hidden attack surfaces
+- Helps security analysts identify exposed endpoints and vulnerabilities
+- Common technique in web application security assessments
