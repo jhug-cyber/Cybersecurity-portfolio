@@ -9,5 +9,5 @@ SIEM basics
 Linux basics
 
 Projects:
-[Gobuster Lab](./gobuster-lab.md)
+gobuster-lab
 SIEM Lab (coming soon)
