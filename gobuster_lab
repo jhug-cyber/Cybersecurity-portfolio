@@ -9,9 +9,10 @@ Perform directory brute-forcing on web applications
 •	Tools/Commands
 Gobuster
 - Command: 
-
+Gobuster Command Gobustercommand.png 
 Gobuster command used to enumerate directories.
 
+Gobuster Scan Results.png
 - Results from Gobuster scan
  
 Scan results showing discovered endpoint /bank-transfer (Status 200). 
